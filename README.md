@@ -2,8 +2,7 @@
 
 ##### A little about me:
 - 😄 Pronouns: He/Him.
-- 🔭 You can find one of my mobile applications, which was built with flutter, that converts the prices of various crytpocurrencies to their equivalent in various major currencies
-- [here](https://play.google.com/store/apps/details?id=com.theseuntaylor.cryptoconverter). Also working on various other applciations built with Kotlin and Java.
+- 🔭 You can find one of my mobile applications, which was built with flutter, that converts the prices of various coins (crytpocurrencies) to their equivalent fiat values (currencies) [here](https://play.google.com/store/apps/details?id=com.theseuntaylor.cryptoconverter). Also working on various other applciations built with Kotlin and Java.
 - 👯 I’m looking to collaborate with anyone on building mobile applications and contributing to open source projects.
 - 🤔 I’m looking for opportunities that would enable me grow as a mobile developer, so please, do not hesistate to reach out. ;)
 - 💬 You can always ask me about anything that you'd like to know.
