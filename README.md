@@ -64,7 +64,7 @@
       <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4>🟩 <a href="https://github.com/theseuntaylor/StackBoxes">StackBoxes</a></h4>
+      <h4>🟩 <a href="https://github.com/theseuntaylor/StackBoxes">StackBoxes</a><sup>on Google Play</sup></h4>
       A Simon-style memory game. Watch boxes light up, tap them back in order, and climb through 3×3, 4×4 and 5×5 grids. Lives, streak rewards and a per-difficulty leaderboard keep you coming back.
       <br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
