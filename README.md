@@ -107,14 +107,3 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theseuntaylor&show_icons=true&hide_border=true&theme=transparent&title_color=7F52FF&icon_color=3DDC84" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseuntaylor&layout=compact&hide_border=true&theme=transparent&title_color=7F52FF" alt="Top languages" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer" width="100%" alt="" />
